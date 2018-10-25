@@ -1,2 +1,2 @@
 language: ruby
-script: echo "FO0"
+script: echo "FO0BAR"
